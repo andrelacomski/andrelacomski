@@ -7,7 +7,21 @@
 :house_with_garden: I’m from Brazil.
 
 :rocket: Currently working at Buson
- 
+
+## Stack
+
+<ul>
+ <li>
+   Backend (PHP, Java, Node.JS, Laravel, CodeIgniter)
+ </li>
+ <li>
+   Frontend (HTML, JavaScript, CSS, React.JS, Next.JS, Vue.JS, Svelte and React Native)
+ </li>
+ <li>
+  Others (MySql, Docker, AWS, Git Actions)
+ </li>
+</ul>
+
 ## Contact
 
 <ul>
