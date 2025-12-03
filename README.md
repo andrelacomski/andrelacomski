@@ -12,13 +12,16 @@
 
 <ul>
  <li>
-   Backend (PHP, Java, Node.JS, Laravel, CodeIgniter)
+   Backend (PHP, Java, Node.JS, Laravel, CodeIgniter, Spring Boot)
  </li>
  <li>
-   Frontend (HTML, JavaScript, CSS, React.JS, Next.JS, Vue.JS, Svelte and React Native)
+   Frontend (HTML, JavaScript, CSS, React.JS, Next.JS, Vue.JS, Svelte)
  </li>
  <li>
-  Others (MySql, Docker, AWS, Git Actions)
+   Mobile (Flutter, React Native)
+ </li>
+ <li>
+  Others (MySql, Postegres, Docker, AWS, CI/CD)
  </li>
 </ul>
 
@@ -30,9 +33,6 @@
  </li>
  <li>
    <a href="https://www.linkedin.com/in/andrelacomski/" target="_blank">Linkedin</a>
- </li>
- <li>
-   <a href="https://www.instagram.com/andrelacomski" target="_blank">Instagram</a>
  </li>
  <li>
   <a href="mailto:andrelacomski1@gmail.com" target="_blank">E-mail</a>
