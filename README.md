@@ -6,13 +6,13 @@
 
 :house_with_garden: I’m from Brazil.
 
-:rocket: Currently working at Buson
+:rocket: Currently working at Terra Mobility.
 
 ## Stack
 
 <ul>
  <li>
-   Backend (PHP, Java, Node.JS, Laravel, CodeIgniter, Spring Boot)
+   Backend (PHP, Java, Node.JS, Laravel, Spring Boot)
  </li>
  <li>
    Frontend (HTML, JavaScript, CSS, React.JS, Next.JS, Vue.JS, Svelte)
